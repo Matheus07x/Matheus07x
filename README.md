@@ -1,4 +1,5 @@
 - 👋 Bem Vindo , Eu sou Matheus
 - 👀 Estou cursando alura  
 - 🌱  Estudante 2 EM
-![.](https://media.tenor.com/ll9gra6wekcaaaam/cool-fun.gif)
+
+![o](https://media1.tenor.com/m/ll9grA6WekcAAAAd/cool-fun.gif)
